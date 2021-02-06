@@ -6,5 +6,7 @@ public class TestCase2 {
 
     //writing the steps for my testcase
 
-    //i love this work 
+    //i love this work
+
+    //ready to merge 
 }
